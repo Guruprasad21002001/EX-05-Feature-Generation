@@ -202,4 +202,33 @@ sc3=RobustScaler()
 df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass','Sex','Age','SibSp','Parch','Fare','Embarked'])
 df5
 ~~~
-OUTPUT:
+## OUTPUT:
+
+## DATA.csv
+![o1](https://user-images.githubusercontent.com/95342910/167538918-3cbd81b3-83f5-4b53-a788-f904f95603a8.png)
+![04 (1)](https://user-images.githubusercontent.com/95342910/167538966-1d0b93c0-79a9-42a0-ac64-2d1d44574167.png)
+![o5](https://user-images.githubusercontent.com/95342910/167538991-ff359982-5da2-4014-be82-baebdf56ac46.png)
+![o6](https://user-images.githubusercontent.com/95342910/167539014-ad7f8735-976b-44c3-98cb-12901c254489.png)
+![o8](https://user-images.githubusercontent.com/95342910/167539042-3a3100c4-a4e7-4b14-a573-c984b45d9695.png)
+![o9](https://user-images.githubusercontent.com/95342910/167539079-955a64aa-2849-400e-ab1c-e66f2ce76a92.png)
+![o10](https://user-images.githubusercontent.com/95342910/167539104-fd13bc73-f7b8-470e-879f-b3bd7f7b3817.png)
+![o11](https://user-images.githubusercontent.com/95342910/167539127-16524e0a-a843-4d6b-8d31-aba20f8f4dd2.png)
+![o12](https://user-images.githubusercontent.com/95342910/167539139-3a09ba11-2363-41c0-980c-25894666599b.png)
+
+## ENCODING.csv
+![o13](https://user-images.githubusercontent.com/95342910/167539312-a9344ae0-027e-4b3b-86e5-208d53052e52.png)
+![o14](https://user-images.githubusercontent.com/95342910/167539324-a6ffce75-8d21-49b9-bc3a-c618dad925ef.png)
+![o15](https://user-images.githubusercontent.com/95342910/167539344-e8af4638-55b9-436d-8785-c7bc5d94d660.png)
+![o16](https://user-images.githubusercontent.com/95342910/167539353-b6f36fcd-7df0-4bea-9315-f8563f007e82.png)
+![o18](https://user-images.githubusercontent.com/95342910/167539374-ab337500-dd51-4313-ac12-4dfdf4a6dea7.png)
+![o20](https://user-images.githubusercontent.com/95342910/167539396-d8ef3431-fad6-4f4c-bff6-10d1d9bc6477.png)
+![o21](https://user-images.githubusercontent.com/95342910/167539418-0649f2f1-e54a-41d7-8458-4595980c197c.png)
+
+## TITANIC.csv
+![o22](https://user-images.githubusercontent.com/95342910/167539525-db282cbb-a45a-4bb0-981e-e209259a21a2.png)
+![o23](https://user-images.githubusercontent.com/95342910/167539552-b7a90523-fc1c-40b8-ba6c-bda85b939c38.png)
+![o24](https://user-images.githubusercontent.com/95342910/167539572-8bbe3116-7072-44e7-b484-7e52b22edc80.png)
+![o25](https://user-images.githubusercontent.com/95342910/167539583-437531d6-95d6-49ef-a95d-fa06791dd64a.png)
+![o26](https://user-images.githubusercontent.com/95342910/167539606-0cd1b1b8-4671-4331-b68a-a06cddad7000.png)
+![o27](https://user-images.githubusercontent.com/95342910/167539627-6be867c8-fe61-4b93-a98e-ba56cbb9e8a4.png)
+
